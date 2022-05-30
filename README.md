@@ -1,4 +1,4 @@
 # OnceMyJavaAssigments
-本人曾经（整理很乱）的Java作业
+本人曾经（整理很乱）的Java作业，拿来试试怎么push
 
-啊太好了，我push终于成功了
+好耶，我push终于成功了
